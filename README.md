@@ -1,22 +1,23 @@
-Input/Output Demonstration App
+# Input/Output Demonstration
 
 All the basic building blocks of Enterprise applications
 
-Hello there and welcome!
+Hello there and welcome! 
 
 I made this little program to demonstrate my solid understanding of how real applications work. What this program shows is the following:
 
-Taking input from users
-Storing that input into variables accordingly
-Creating objects of Employees with that information
-Passing that info into separate Database class and storing that info
-Then looking up those objects in the Database according to input from user
-Pulling those objects out of the Database entries, unpacking the objects and getting the data back, and displaying it back to user
+1. Taking input from users
+2. Storing that input into variables accordingly
+3. Creating objects of Employees with that information
+4. Passing that info into separate Database class and storing that info
+5. Then looking up those objects in the Database according to input from user
+6. Pulling those objects out of the Database entries, unpacking the objects and getting the data back, and displaying it back to user
+
 Also, decided to OutputStream write that information out into a separate .txt file, to demonstrate I understand how to create files, and store data externally.
 
 Etc etc
 
-Pardon the lack of Exception handling code, I had little time to make this, this was a super quick app I built in 10 minutes. The implementing method has possible exception declaration. Also, try/catch blocks really overload the code, I wanted to keep this light, so readers have easier time.
+Pardon the lack of Exception handling code, I had little time to make this, this was a super quick app I built in 10 minutes. The implementing method has possible exception declaration. Also, try/catch blocks really overload the code, I wanted to keep this light, so readers have easier time. 
 
 So please, just make sure to input info in appropriate format and please create that MyText.txt file on your C: drive, so it doesn't throw an exception.
 
