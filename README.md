@@ -23,7 +23,7 @@ So please, just make sure to input info in appropriate format and please create 
 
 Also, left a bit of a mess in Employee class, like unused default constructor and Setter methods. It's only to demonstrate I understand Getters/Setters, default constructor(important for JavaBeans) and importance of public access modifiers for certain things.
 
-In summary, this can be easily transfered into a full application. Input can be taken from HTML input fields on some website or GUI input fields of a desktop application. The database can be easily made persistent using JPA/Hibernate and syncing it(passing it into) with any SQL database somewhere. In other words, it can easily can be passed into persistance.
+In summary, this can be easily transfered into a full application. Input can be taken from HTML form/input fields on some website or GUI input fields of a desktop application. The database can be easily made persistent using JPA/Hibernate and syncing it(passing it into) with any SQL database somewhere. In other words, it can easily can be passed into persistance.
 
 PS. I fully intent to build a good quality application using JavaFX for GUI, good structure to code, lots of features and proper database syncing using MySQL(or some other SQL database). But I am currently focused on deeping my core skills and practicing with Enterprise platforms like Spring framework, Spring Boot, Hibernate, etc, in order to pass coding challenges and interviews.
 
